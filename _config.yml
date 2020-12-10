@@ -21,8 +21,8 @@
 title: Laura Marinović - blog
 email: laura.martinovic12@gmail.com
 description: >- # "Zovem se Laura Martinović, iz Zadra sam i studentica sam Informacijskih tehnologija." 
-baseurl: "lauramSITblog"
-url: "https://github.com/lauramartinovic" 
+baseurl: "/SITblog"
+url: "https://github.com/lauramartinovic.io" 
 github_username: lauramartinovic
 
 # Build settings
